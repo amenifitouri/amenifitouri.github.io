@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black'); /* on a avoir par google pour choisir la ploice */
+ span{
+    font-family:  arial ;
+    font-size: 20px ;
+} 
+h1 {
+    font-family: fantasy ;
+}
+.p{
+    
+padding: 40px;
+}
+.p i{
+    padding: 40px ;
+}
+.p p {
+text-align: justify ; /*bech n5aliou les lignes el kol ta7et b3ayhhom*/
+}
+.jumbotron {
+    text-align: center ;
+    height: 600px;
+    box-shadow: 0 2px 2px #bbb; /* bech na3mlou el thol fi e://images.l jumboton */
+background: center no-repeat url("https://images.unsplash.com/photo-1520095972714-909e91b038e5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1110ecf3ce9e4184d4676c54dec0032d&auto=format&fit=crop&w=1500&q=80")
+}
+.jumbotron h1 {
+    position: relative;
+    top: 30%;
+    color: black; 
+    font-family: "Archivo Black";  /* on fait l'appel de police choisir*/
+
+}
+body{
+    padding-bottom: 150px; /* bech nafsouha men louta na3mlou espace*/
+}
+ 
